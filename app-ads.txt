@@ -1,0 +1,4 @@
+# App-ads.txt file for FreePlayer
+
+# Google AdMob
+google.com, pub-7326660607440875, DIRECT, f08c47fec0942fa0
